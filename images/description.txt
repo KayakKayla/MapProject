@@ -1,1 +1,1 @@
-Created the images directory to store previous paths found.
+Created the images directory in order to store previous paths found.
